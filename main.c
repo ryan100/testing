@@ -8,6 +8,7 @@
 int main()
 {
 		printf("hello to the world of Linux \n");
-		printf("creating second version for commit\n")
+		printf("creating second version for commit\n");
+		printf("hello");
 		return 0;
 }
